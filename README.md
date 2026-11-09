@@ -5,17 +5,4 @@
 - *this is italic*
 - **bold text**
 
-![flamingo](flamingo.webp)
-
-## this is next level
-
-we finally clone this! juhu!
-
-## thirds level 
-
-lets pull online changes
-
-## vscode changes
-
-new stuff using a different tool
-
+![flamingo](https://tse1.mm.bing.net/th/id/OIP.dcI9QcJvOYJf8zCDczR-ggHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
