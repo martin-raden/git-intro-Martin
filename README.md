@@ -1,6 +1,6 @@
 # git-intro-Martin
 
-## introduction  - level 2 header
+## introduction  - level 2 header in markdown
 
 - *this is italic*
 - **bold text**
