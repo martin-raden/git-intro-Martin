@@ -1,6 +1,6 @@
 # git-intro-Martin
 
-## introduction  - level 2 header
+## introduction  - level 2 header in markdown
 
 - *this is italic*
 - **bold text**
@@ -18,3 +18,7 @@ hier ist was los
 # noch was anderes
 
 fiel mir gerade ein
+
+# feature X
+
+there is a new feature file X
