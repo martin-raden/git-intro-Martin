@@ -18,3 +18,7 @@ hier ist was los
 # noch was anderes
 
 fiel mir gerade ein
+
+# feature X
+
+there is a new feature file X
