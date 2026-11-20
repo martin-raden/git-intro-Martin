@@ -4,6 +4,7 @@
 
 - *this is italic*
 - **bold text**
+- normal text
 
 ![flamingo](flamingo.webp)
 
